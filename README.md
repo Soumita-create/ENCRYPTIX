@@ -22,3 +22,13 @@ Embedding Layer
 Dense Layers
 <br>
 Add Layer
+# TASK 2: TIC-TAC-TOE AI
+Creating an AI agent to play Tic-Tac-Toe using the Minimax algorithm with Alpha-Beta Pruning involves several steps.
+<br>
+# TECHNOLOGIES USED:
+Python
+<br>
+# MODELS IMPLEMENTED:
+Minimax Algorithm
+<br>
+Alpha-Beta Pruning
