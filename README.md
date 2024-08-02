@@ -32,3 +32,17 @@ Python
 Minimax Algorithm
 <br>
 Alpha-Beta Pruning
+# TASK 3: FACE DETECTION AND RECOGNITION
+To create an AI application that can detect and recognize faces in images or videos, we'll use pre-trained models for face detection and recognition. 
+<br>
+# TECHNOLOGIES USED:
+Tensorflow
+<br>
+Keras
+<br>
+Open CV
+<br>
+# MODELS IMPLEMENTED:
+VGG16
+<br>
+FaceNet
